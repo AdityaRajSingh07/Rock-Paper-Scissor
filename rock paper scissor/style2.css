@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.container{
+    border: 2px solid black;
+    height: 38vh;
+    width: 30vw;
+    margin: 30vh 35vw;
+    background-color: rgb(219, 194, 146);
+
+}
+.h1{
+    text-align: center;
+}
+#rock{
+    margin: 0vh 3vw;
+    padding: 14px;
+    border-radius: 12px;
+}
+#paper{
+    margin: 0vh 2vw;
+    padding: 14px;
+    border-radius: 12px;
+}
+#scissors{
+    margin: 0vh 2vw;
+    padding: 14px;
+    border-radius: 12px;
+}
+.result{
+    color: white;
+    border: 2px solid white transparent;
+    padding: 18px;
+    margin: 0 110px;
+    font-size: larger;
+    
+}
